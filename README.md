@@ -27,7 +27,7 @@ Tools & Technologies Used
     2. NumPy
     3. Scikit-learn (Basic K-Means Clustering)
     4. Jupyter Notebook
-    5. MySQL and Excel
+    5. Excel
    
 Data Processing & Cleaning
 
@@ -70,8 +70,9 @@ Business Recommendations
 Files Included
 
     1. Jupyter Notebook Implementation
-    2. Project Presentation
-    3. Dahboard
+    2. Excel
+    3. Project Presentation
+    4. Dahboard
 
 Skills Demonstrated
 
