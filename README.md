@@ -53,11 +53,11 @@
    
 ### Clustering & Segmentation
 
-Basic customer segmentation was performed using K-Means clustering.
+- Basic customer segmentation was performed using K-Means clustering.
 Customer Segments Identified
-       - Cluster 0 – High-Value Loyal Customers
-       - Cluster 1 – Discount-Sensitive Customers
-       - Cluster 2 – Low-Frequency Customers
+1. Cluster 0 – High-Value Loyal Customers
+2. Cluster 1 – Discount-Sensitive Customers
+3. Cluster 2 – Low-Frequency Customers
    
 ## Business Recommendations
 
